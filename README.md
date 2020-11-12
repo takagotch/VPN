@@ -1,5 +1,9 @@
 ### VPN VPNサービス（PPTP、OpenVPN）
 ---
+VPNパススルー」設定
+
+
+
 
 
 ```
