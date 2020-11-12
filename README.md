@@ -1,4 +1,4 @@
-### VPN
+### VPN VPNサービス（PPTP、OpenVPN）
 ---
 
 
