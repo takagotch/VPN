@@ -4,6 +4,16 @@
 海外から安全に接続出来る自宅VPNサーバーの立上げ方法
 https://enjoyasia.net/wordpress/configure-vpn-server-at-home
 
+###### SoftEther VPN
+https://ja.softether.org/5-download
+
+###### OpenVPN
+https://www.openvpn.jp/
+
+######
+
+######
+######
 
 
 VPNパススルー」設定
