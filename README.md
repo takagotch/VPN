@@ -14,8 +14,7 @@ https://www.openvpn.jp/
 ---
 
 ######
-######
-######
+
 
 
 VPNパススルー」設定
@@ -24,6 +23,12 @@ VPNパススルー」設定
 http://buffalonas.com/
 
 https://github.com/takagotch/buffalo/blob/master/README.md
+
+###### nec aterm
+https://github.com/takagotch/NEC
+
+###### elecom
+https://github.com/takagotch/elecom
 
 
 ```
