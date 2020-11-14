@@ -23,6 +23,7 @@ VPNパススルー」設定
 ######  [baffalo nas](http://buffalonas.com/)
 http://buffalonas.com/
 
+https://github.com/takagotch/buffalo/blob/master/README.md
 
 
 ```
